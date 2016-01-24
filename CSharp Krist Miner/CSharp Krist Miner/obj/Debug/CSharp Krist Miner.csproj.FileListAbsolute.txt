@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\GitHub\CSharp-Krist-Miner\CSharp Krist Miner\CSharp Krist Miner\bin\Debug\CSharp Krist Miner.exe.config
+C:\Users\admin\Documents\GitHub\CSharp-Krist-Miner\CSharp Krist Miner\CSharp Krist Miner\bin\Debug\CSharp Krist Miner.exe
+C:\Users\admin\Documents\GitHub\CSharp-Krist-Miner\CSharp Krist Miner\CSharp Krist Miner\bin\Debug\CSharp Krist Miner.pdb
+C:\Users\admin\Documents\GitHub\CSharp-Krist-Miner\CSharp Krist Miner\CSharp Krist Miner\obj\Debug\CSharp Krist Miner.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\CSharp-Krist-Miner\CSharp Krist Miner\CSharp Krist Miner\obj\Debug\CSharp Krist Miner.exe
+C:\Users\admin\Documents\GitHub\CSharp-Krist-Miner\CSharp Krist Miner\CSharp Krist Miner\obj\Debug\CSharp Krist Miner.pdb
